@@ -1,0 +1,1 @@
+print("wyświetl napis JZ")
