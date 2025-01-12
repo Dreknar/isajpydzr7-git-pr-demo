@@ -40,3 +40,5 @@ def factorial(n):
 
 if __name__ == '__main__':
     print(factorial("5"))
+    print(factorial("10"))
+    
