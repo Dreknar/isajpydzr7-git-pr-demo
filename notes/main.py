@@ -11,3 +11,6 @@ def even_and_odd_counter(numbers: list[int]) -> dict:
             counter["odd"] += 1
 
     return counter
+
+if __name__ == '__main__':
+    print(even_and_odd_counter([1, 2, 3, 4, 5]))
